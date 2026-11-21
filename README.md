@@ -8,7 +8,7 @@ The project examines historical financial performance, wealth management revenue
 
 ## Management Dashboard
 
-![Management Dashboard](management%20dashboard.png)
+![Dashboard preview](Dashboard%20preview.png)
 
 ## Project Objectives
 
