@@ -1,0 +1,39 @@
+﻿test,status,details
+2025 row counts,PASS,36 AUM /108 product /48 expense
+2025 Mass Affluent AUM bridge,PASS,Rounding tolerance AED 0.025
+2025 Mass Affluent roll-forward,PASS,Dec/Jan continuity within year
+2025 Mass Affluent client roll-forward,PASS,All 12 months
+2025 High Net Worth AUM bridge,PASS,Rounding tolerance AED 0.025
+2025 High Net Worth roll-forward,PASS,Dec/Jan continuity within year
+2025 High Net Worth client roll-forward,PASS,All 12 months
+2025 Ultra High Net Worth AUM bridge,PASS,Rounding tolerance AED 0.025
+2025 Ultra High Net Worth roll-forward,PASS,Dec/Jan continuity within year
+2025 Ultra High Net Worth client roll-forward,PASS,All 12 months
+2025-01 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-01 revenue arithmetic,PASS,Rounded AED 0.025
+2025-02 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-02 revenue arithmetic,PASS,Rounded AED 0.025
+2025-03 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-03 revenue arithmetic,PASS,Rounded AED 0.025
+2025-04 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-04 revenue arithmetic,PASS,Rounded AED 0.025
+2025-05 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-05 revenue arithmetic,PASS,Rounded AED 0.025
+2025-06 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-06 revenue arithmetic,PASS,Rounded AED 0.025
+2025-07 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-07 revenue arithmetic,PASS,Rounded AED 0.025
+2025-08 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-08 revenue arithmetic,PASS,Rounded AED 0.025
+2025-09 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-09 revenue arithmetic,PASS,Rounded AED 0.025
+2025-10 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-10 revenue arithmetic,PASS,Rounded AED 0.025
+2025-11 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-11 revenue arithmetic,PASS,Rounded AED 0.025
+2025-12 product AUM reconciliation,PASS,Nine products sum to AUM (AED tolerance 0.11)
+2025-12 revenue arithmetic,PASS,Rounded AED 0.025
+2025 RM year-end AUM allocation,PASS,RM total vs December segment closing AUM
+2025 RM client coverage,PASS,RM coverage equals segment closing clients
+2025 RM net flows,PASS,RM NNM equals FY2025 segment NNM
+2025 budget independence,PASS,Budget constructed without realized monthly actuals
